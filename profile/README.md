@@ -1,9 +1,9 @@
 ##
-Créer Par : Maxime Paulin, Nathael Blais, Dylan lévesque, Jérémy Poirrier et Tom Pitou
+Créé par : Maxime Paulin, Nathaël Blais, Dylan Lévesque, Jérémy Poirier et Tom Pitou
 
-Date de début du projet officiel : 17 mars
-Date de fin du projet selon la charte : 10 mai
-Date de fin du projet officiel : 22 Mai
+Date de début du projet officielle : 17 mars 2023
+Date de fin du projet selon la charte de projet : 10 mai 2023
+Date de fin du projet officiel : 22 Mai 2023
 
 Description du projet :
 
