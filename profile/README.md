@@ -1,5 +1,5 @@
 ##
-Créaer Par : Maxime Paulin, Nathael Blais, Dylan lévesque, Jérémy Poirrier et Tom Pitou
+Créer Par : Maxime Paulin, Nathael Blais, Dylan lévesque, Jérémy Poirrier et Tom Pitou
 
 Date de début du projet officiel : 17 mars
 Date de fin du projet selon la charte : 10 mai
