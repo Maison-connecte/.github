@@ -1,2 +1,2 @@
 # .github
-Description du projet
+Description du projet à la page principale de l'organisation
